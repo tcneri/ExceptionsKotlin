@@ -8,4 +8,8 @@ fun main() {
         println("Ocorreu uma exception ${ex.message}")
         ex.stackTrace
     }
+
+    //alteração
+
+    var nome = "Andre"
 }
